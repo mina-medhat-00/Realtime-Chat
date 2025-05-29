@@ -27,11 +27,3 @@ This is a simple chat room project built using Node.js and Socket.io. The projec
 
 - Node.js: A JavaScript runtime environment that executes JavaScript code outside of a web browser.
 - Socket.io: A library that enables real-time, bidirectional, and event-based communication between the server and clients.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-Acknowledgments
-
-The chat room project is inspired by Socket.io's official chat example.
-Thanks to the Node.js and Socket.io communities for their excellent documentation and support.
